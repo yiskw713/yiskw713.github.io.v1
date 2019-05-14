@@ -26,13 +26,14 @@ linkedin_username: 裕地-石川-126b39186
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | 
-  I'm a first-year master's student majoring in Electronics and Computer Vision in the dept. of Electronics and Electrical Engineering at Keio University.<br>
+  I'm a first-year Master's student majoring in Electronics and Computer Vision in the dept. of Electronics and Electrical Engineering at Keio University.<br>
   My research interests are Machine Learning, Computer Vision(Semantic Segmentation and Action Recognition) and Robot Vision(Affordance and Motion Analysis). <br>
   Now I'm working on these topics;
     * Fuction Detection of an object (e.g. Affordance)
     * Action Recognition
-    * Semantic Segmentation<br>
-  I'm full of curiosity. I always want to acquire a lot of knowledge and catch up brand　new technology.<br>
+    * Semantic Segmentation  
+
+  I'm full of curiosity. I always want to acquire a lot of knowledge and catch up cutting-edge technology.<br>
   I also love traveling, camera, running in marathons, listening to music and so on. <br>
   If you get interested in me, Do Not hesitate to contact me!!<br>
 
@@ -43,7 +44,20 @@ education_title: Education #(Use this to override about education section title)
 experience_title: Work Experience #(Use this to override about experience section title)
 
 # Publications Section
-Publications_title: Publications #(Use this to override about projects section title)
+publications_title: Publications #(Use this to override about projects section title)
+publications_content: |
+  ## <b>Journal</b>
+  * (Under Review)
+
+  ## <b>International Conference</b>
+  * Haruya Ishikawa, <b>Yuchi Ishikawa</b>, Shuichi Akizuki, Yoshimitsu Aoki,
+    Human-Object Maps for Daily Activity Recognition, International Conference on Machine Vision Applications(MVA 2019)
+  * (Under Review)
+
+  ## <b>Domestic Conference</b>
+  *	<b>石川裕地</b>，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定，動的画像処理実利用化ワークショップ2019(DIA 2019)
+  * <b>石川裕地</b>，石川晴也，秋月秀一，青木義満，操作タスクと指示対象クラスの入力による物体の機能部推定，第25回画像センシングシンポジウム(SSII 2019)
+  * 秋月秀一，<b>石川裕地</b>，石川晴也，青木義満，非定常状態の理解とシーン復元のための物体の操作方法推定，動的画像処理実利用化ワークショップ2019(DIA 2019)
 
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
@@ -63,7 +77,7 @@ skills_content: | # this will include new lines to allow paragraphs
   ## <b>Data Science</b>
   <mark>Numpy</mark> <mark>Pandas</mark> <mark>Pytorch</mark> <mark>MatLab</mark>
 
-  ## <b>Research interests</b>
+  ## <b>Computer Vision</b>
   <mark>Machine Learning</mark> <mark>Affordance</mark> <mark>Motion Analysis</mark> <mark>3D Point Cloud</mark> 
   <mark>Semantic Segmentation</mark> <mark>Action Recognition</mark> <mark>Object Detection</mark>
 
