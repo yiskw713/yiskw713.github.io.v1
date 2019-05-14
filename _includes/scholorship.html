@@ -1,0 +1,17 @@
+<div class="container scholorship-container">
+    <h3>{{ site.scholorship_title | default: "Scholorship" }}</h3>
+    {% for scholorship in site.data.scholorship %}
+    <div class="row clearfix education">
+        <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+            <h4>{{ scholorship.name }}</h4>
+            <p>{{ scholorship.dates }}</p>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+            {%- if scholorship.quote -%}
+            <p class="quote">{{ scholorship.quote }}</p>
+            {%- endif -%}
+            {{ scholorship.description | strip | markdownify }}
+        </div>
+    </div>
+    {% endfor %}
+</div>

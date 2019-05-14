@@ -3,52 +3,82 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Yuchi Ishikawa
+title: Graduate Student majoring in Computer Vision
+email: yishikawa[at]aoki-medialab.jp
+# phone: Your phone number (optional)
+website: https://github.com/yiskw713
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: yiskw713
+github_username:  yiskw713
+# dribbble_username: jekyll
+facebook_username: yuchi.ishikawa.7
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: 裕地-石川-126b39186
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+about_profile_image: images/profile.jpg
+about_content: | 
+  I'm a first-year master's student majoring in Electronics and Computer Vision in the dept. of Electronics and Electrical Engineering at Keio University.<br>
+  My research interests are Machine Learning, Computer Vision(Semantic Segmentation and Action Recognition) and Robot Vision(Affordance and Motion Analysis). <br>
+  Now I'm working on these topics;
+    * Fuction Detection of an object (e.g. Affordance)
+    * Action Recognition
+    * Semantic Segmentation<br>
+  I'm full of curiosity. I always want to acquire a lot of knowledge and catch up brand　new technology.<br>
+  I also love traveling, camera, running in marathons, listening to music and so on. <br>
+  If you get interested in me, Do Not hesitate to contact me!!<br>
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
+
+# Experience Section
+experience_title: Work Experience #(Use this to override about experience section title)
+
+# Publications Section
+Publications_title: Publications #(Use this to override about projects section title)
+
+# Projects Section
+projects_title: Projects #(Use this to override about projects section title)
+
+# Sholorship Section
+scholorship_title: Scholorship
+
+# Skills Section
+skills_title: Skills
+skills_content: | # this will include new lines to allow paragraphs
+  ## <b>Language</b>
+  <mark>Japanease</mark> <mark>English</mark>
+  
+  ## <b>Programming</b>
+  <mark>Python</mark> <mark>C/C++</mark> <mark>HTML/CSS</mark>
+
+  ## <b>Data Science</b>
+  <mark>Numpy</mark> <mark>Pandas</mark> <mark>Pytorch</mark> <mark>MatLab</mark>
+
+  ## <b>Research interests</b>
+  <mark>Machine Learning</mark> <mark>Affordance</mark> <mark>Motion Analysis</mark> <mark>3D Point Cloud</mark> 
+  <mark>Semantic Segmentation</mark> <mark>Action Recognition</mark> <mark>Object Detection</mark>
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: When I'm Not Researching
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  When I'm not in Lab., I put my free time into my hobbies or hang out with my friends, though I love research and spend most of my time studying.<br>
+  When I take a long vaction, I always do travel all over Japan or the world.
+  I love traveling and I've experienced backpacking many times such as traveling across Japan by bike, crossing America by recreationl vehicle, 
+  hitchhiking, survival on an uninhabited island, camping in Africa and so on.<br>
+  Meeting people who have different backgrounds enriched my mind and changed me dramatically.<br>
+  And I like taking pictures as I can keep my trips as a memory. I often enjoy taking pictures of landscape, night view and starry sky.<br>
+  
+  I also like listening to music, watching comedians shows and drinking coffee or tea.<br>
+  These days, I'm carzy about running in marathons. I've completed a full marathon twice and I'm going to participate in marathons more and more.
 
 # Footer
 footer_show_references: true

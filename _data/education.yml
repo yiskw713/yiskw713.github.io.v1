@@ -1,8 +1,21 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Graduate School of Keio University 
+  dates: 2019 - Now
+  qualification: 
+    School of Integrated Design Engineering<br> 
+    Center for Electronics and Electrical Engineering
   quote: >
-    Short institution or course description (optional)
+    I'm studying Machine Learning, Computer Vision and Robot Vision. I'm expected to get a master's degree in 2021
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    * Adviser: Prof. Yoshimitsu Aoki
+    * [Lab. Homepage](https://aoki-medialab.jp/){:target="_blank"}
+
+- name: Keio University
+  dates: 2015 - 2019
+  qualification: Dept. of Electronics and Electrical Engineering
+  quote: >
+    I mainly studied Electronics in the first three years. During the last year, I researched Machine Learning, Computer Vision and Robot Vision.
+  description: | # this will include new lines to allow paragraphs
+    * Adviser: Prof. Yoshimitsu Aoki
+    * [Lab. Homepage](https://aoki-medialab.jp/){:target="_blank"}
+

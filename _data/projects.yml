@@ -1,8 +1,50 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: Paper Summary
+  link: 
+  github: yiskw713/paper_summary
   quote: >
-    Short overview of the project (optional)
+    
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    I read papers every day and summarize them as far as possible in GitHub.
+    If you get interested, visit my project page.
+
+- name: cvpaper.challenge
+  link: http://xpaperchallenge.org/cv/
+  github: cvpaperchallenge
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    As a member of cvpaper.challenge, I read a lot of papers accepted at CVPR or several top conferences.
+    I also reseach and share the knowledge with its members.
+
+- name: ActivityNet Challenge
+  link: http://activity-net.org/
+  github: 
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    I'll take part in ActivityNet Challenge. This information's coming soon.
+
+- name: Collaborative Research with a leading automaker
+  link:
+  github: 
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Research how to make help robots real with a major automaker in Japan. 
+
+- name: Commissioned Research by a chemical manufacturer
+  link:
+  github: 
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Work on Semantic Segmentation for specific objects as a contract research.
+
+- name: Others
+  link:
+  github: yiskw713
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    You can see other projects on my GitHub. If you get interested, please visit it!

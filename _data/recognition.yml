@@ -1,0 +1,29 @@
+# Recognition Template
+- name: Outstanding Performance Award for Bachelor Theses
+  dates: Mar. 2019
+  qualification: in the Dept. of Electronics and Electrical Engineering of Keio University
+  quote: >
+    I won the excellent award for my graduation thesis in 2019.
+  description: | # this will include new lines to allow paragraphs
+    My bachelor thesis topic is "Task-oriented Function Detection Based on Operational Tasks".<br>
+    I proposed an alternative representation to Affordance, "Task-oriented Function", in the paper. 
+    This representation makes it possible to desribe a variety of ways to use an object, 
+    though Affordance in the field of Robot Vision can express only one way to use it.<br>
+
+- name: 3rd place award in MIRU 2018 Young Researchers Program
+  dates: Aug. 2018
+  qualification: 
+  quote: >
+    As a young researcher program in MIRU 2018, participants were divided into several groups and each group read papers in the field outside Computer Vision.
+    Then, each group summarized the history, the trend and the conection with Computer Vision.
+    It helped us not only understand different fields, but also consider how we can make use of knowledge about them for Computer Vision.
+  description: | # this will include new lines to allow paragraphs
+    Our group, C, read papers in the field of Robotics, focusing on 'transferring knowledge from simulation to real'.
+    You can see our poster and presentation material from [this link](https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99?authuser=0).
+
+- name: TOEIC
+  dates: May 2018
+  qualification: Educational Testing Service (ETS)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    <div style="text-align: center;"><font size='5'>940</font></div>

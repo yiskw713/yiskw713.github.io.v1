@@ -12,20 +12,36 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
+      {%- if site.data.education.size > 0 -%}
+      {%- include education.html -%}
       {%- endif -%}
 
       {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
+      {%- include experience.html -%}
       {%- endif -%}
 
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
+      {%- if site.data.publications.size > 0 -%}
+      {%- include publications.html -%}
+      {%- endif -%}
+
+      {%- if site.data.projects.size > 0 -%}
+      {%- include projects.html -%}
+      {%- endif -%}
+
+      {%- if site.data.recognition.size > 0 -%}
+      {%- include recognition.html -%}
+      {%- endif -%}
+
+      {%- if site.data.scholorship.size > 0 -%}
+      {%- include scholorship.html -%}
+      {%- endif -%}
+
+      {%- if site.skills_content -%}
+      {%- include skills.html -%}
       {%- endif -%}
 
       {%- if site.more_content -%}
-        {%- include more.html -%}
+      {%- include more.html -%}
       {%- endif -%}
 
     </div>
