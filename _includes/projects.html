@@ -4,6 +4,7 @@
   <div class="row clearfix project">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
       <h4>{{ project.name }}</h4>
+      <p>{{ project.dates }}</p>
       {%- if project.link -%}
       {% include a.html href=project.link class="project-link" %}{{ project.link }}</a>
       {%- endif -%}

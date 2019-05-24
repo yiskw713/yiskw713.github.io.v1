@@ -1,5 +1,6 @@
 # Project template
 - name: Paper Summary
+  dates: 2018.08 - Now
   link: 
   github: yiskw713/paper_summary
   quote: >
@@ -9,6 +10,7 @@
     If you get interested, visit my project page.
 
 - name: cvpaper.challenge
+  dates: 2019.03 - Now
   link: http://xpaperchallenge.org/cv/
   github: cvpaperchallenge
   quote: >
@@ -18,6 +20,7 @@
     I also reseach and share the knowledge with its members.
 
 - name: ActivityNet Challenge
+  dates: 2019.04 - Now
   link: http://activity-net.org/
   github: 
   quote: >
@@ -26,6 +29,7 @@
     I'll take part in ActivityNet Challenge. This information's coming soon.
 
 - name: Collaborative Research with a leading automaker
+  dates: 2018.04 - Now
   link:
   github: 
   quote: >
@@ -34,6 +38,7 @@
     Research how to make help robots real with a major automaker in Japan. 
 
 - name: Commissioned Research by a chemical manufacturer
+  dates: 2019.04 - Now
   link:
   github: 
   quote: >
