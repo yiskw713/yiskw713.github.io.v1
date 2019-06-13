@@ -8,6 +8,7 @@ title: Graduate Student majoring in Computer Vision
 email: yishikawa[at]aoki-medialab.jp
 # phone: Your phone number (optional)
 website: https://github.com/yiskw713
+japanease: 
 
 # Social links
 twitter_username: yiskw713
@@ -56,8 +57,12 @@ publications_content: |
   * (Under Review)
 
   ## <b>Domestic Conference</b>
-  *	<b>石川裕地</b>，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定，動的画像処理実利用化ワークショップ2019(DIA 2019)
+  * Seito KASAI, <b>Yuchi ISHIKAWA</b>, Tenga WAKAMIYA, Kensho HARA, Hirokatsu KATAOKA, Exploring the Best Model forDense Captioning Events in Videos，第22回画像の認識・理解シンポジウム (MIRU2019)
+  * 若宮天雅，原健翔，<b>石川裕地</b>，笠井誠斗，中村 明生，片岡 裕雄，超大規模データセットによる動画像認識のための学習済みモデルの構築，第22回画像の認識・理解シンポジウム (MIRU2019)
+  * <b>石川裕地</b>，石川晴也，秋月秀一，青木義満，ロボットの物体操作のためのタスク指向な機能部の推定，第22回画像の認識・理解シンポジウム (MIRU2019)
+  * 秋月秀一，<b>石川裕地</b>，石川晴也，青木義満，物体の配置記述に基づくシーン復元のための操作方法推定，第25回画像センシングシンポジウム(SSII 2019)
   * <b>石川裕地</b>，石川晴也，秋月秀一，青木義満，操作タスクと指示対象クラスの入力による物体の機能部推定，第25回画像センシングシンポジウム(SSII 2019)
+  *	<b>石川裕地</b>，石川晴也，秋月秀一，青木義満，操作タスク入力に基づく物体の機能部推定，動的画像処理実利用化ワークショップ2019(DIA 2019)
   * 秋月秀一，<b>石川裕地</b>，石川晴也，青木義満，非定常状態の理解とシーン復元のための物体の操作方法推定，動的画像処理実利用化ワークショップ2019(DIA 2019)
 
 # Projects Section
