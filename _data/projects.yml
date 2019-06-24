@@ -20,13 +20,22 @@
     I also reseach and share the knowledge with its members.
 
 - name: ActivityNet Challenge
-  dates: 2019.04 - Now
+  dates: 2019.04 - 2019.06
   link: http://activity-net.org/
   github: 
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    I'll take part in ActivityNet Challenge. This information's coming soon.
+    I'll take part in ActivityNet Challenge in CVPR workshop. This information's coming soon.
+
+- name: CVPR2019 速報
+  dates: 2018.06
+  link: https://www.slideshare.net/cvpaperchallenge/cvpr-2019
+  github: 
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    I took part in CVPR 2019 and wrote this article with members of cvpaper.challenge
 
 - name: Collaborative Research with a leading automaker
   dates: 2018.04 - Now

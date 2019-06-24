@@ -8,7 +8,7 @@ title: Graduate Student majoring in Computer Vision
 email: yishikawa[at]aoki-medialab.jp
 # phone: Your phone number (optional)
 website: https://github.com/yiskw713
-japanease: 
+japanese: https://yiskw713.github.io/yiskw713.github.io.jp
 
 # Social links
 twitter_username: yiskw713
@@ -31,6 +31,7 @@ about_content: |
   My research interests are Machine Learning, Computer Vision(Semantic Segmentation and Action Recognition) and Robot Vision(Affordance and Motion Analysis). <br>
   Now I'm working on these topics;
     * Function Detection of an object (e.g. Affordance)
+    * Action Proposal
     * Action Recognition
     * Semantic Segmentation
     * Object Detection  
@@ -52,9 +53,15 @@ publications_content: |
   * (Under Review)
 
   ## <b>International Conference</b>
+  * (Under Review)
+  * Seito Kasai, Yuchi Ishikawa, Tenga Wakamiya, Kensho Hara, Hirokatsu Kataoka, 
+    “AIST Team submission for Task 3, Dense-Captioning Events in Videos,” 
+    CVPR 2019 Workshop, International Challenge on ActivityNet Challenge, 2019.
+  * Tenga Wakamiya, Kensho Hara, Yuchi Ishikawa, Seito Kasai, Hirokatsu Kataoka, 
+    “AIST Submission for ActivityNet Challenge 2019 in Trimmed Activity Recognition (Kinetics),” 
+    CVPR 2019 Workshop, International Challenge on ActivityNet Challenge, 2019.
   * Haruya Ishikawa, <b>Yuchi Ishikawa</b>, Shuichi Akizuki, Yoshimitsu Aoki,
     Human-Object Maps for Daily Activity Recognition, International Conference on Machine Vision Applications(MVA 2019)
-  * (Under Review)
 
   ## <b>Domestic Conference</b>
   * Seito KASAI, <b>Yuchi ISHIKAWA</b>, Tenga WAKAMIYA, Kensho HARA, Hirokatsu KATAOKA, Exploring the Best Model forDense Captioning Events in Videos，
