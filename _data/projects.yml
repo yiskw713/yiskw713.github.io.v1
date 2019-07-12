@@ -26,7 +26,8 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    I'll take part in ActivityNet Challenge in CVPR workshop. This information's coming soon.
+    Out team took part in ActivityNet Challenge in CVPR workshop. I won 9th place in Task A – Trimmed Action Recognition.
+    Our team also participated in Task 3 - Dense-Captioning Events in Videos, though the result is not good.
 
 - name: CVPR2019 速報
   dates: 2018.06
