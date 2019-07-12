@@ -1,4 +1,18 @@
 # Recognition Template
+- name: JDLA Deep Learning for GENERAL(G検定)
+  dates: Jul 2019
+  qualification: Japan Deep Learning Association
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    JDLA aims to develop Deep Learning Generalist, capable of utilizing in business, which has sufficient knowledge in Deep Leaning. 
+
+- name: TOEIC
+  dates: May 2018
+  qualification: Educational Testing Service (ETS)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    <div style="text-align: center;"><font size='5'>940</font></div>
+
 - name: Outstanding Performance Award for Bachelor Theses
   dates: Mar. 2019
   qualification: in the Dept. of Electronics and Electrical Engineering of Keio University
@@ -20,10 +34,3 @@
   description: | # this will include new lines to allow paragraphs
     Our group, C, read papers in the field of Robotics, focusing on 'transferring knowledge from simulation to real'.
     You can see our poster and presentation material from [this link](https://sites.google.com/view/miru2018sapporo/wakate_top/%E5%90%84%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99?authuser=0).
-
-- name: TOEIC
-  dates: May 2018
-  qualification: Educational Testing Service (ETS)
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    <div style="text-align: center;"><font size='5'>940</font></div>
